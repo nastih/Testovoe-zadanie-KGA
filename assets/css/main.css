@@ -96,6 +96,7 @@ body {
 	overflow-x: hidden;
 	position: absolute;
 	width: 50%;
+	min-width: 650px;
 	top: 10px;
 	left: 15px;
 	padding: 20px 15px;			
